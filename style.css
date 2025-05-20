@@ -6,12 +6,8 @@ h1 {
 }
 
 body {
-  background-color: #d1ebe6;
+  background-color: #e1f0ec;
 }  
-
-img:hover {
-  border: dotted #deafa0 7px;
-}
 
 h1:hover {
   text-shadow: 2px 2px #78CDD7;
