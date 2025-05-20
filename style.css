@@ -10,8 +10,6 @@ body {
 }  
 
 img:hover {
-  width: 500px;
-  height: 300px;
   border: dotted #deafa0 7px;
 }
 
