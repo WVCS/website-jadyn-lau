@@ -1,3 +1,21 @@
-body {
+h1 {
+  color: #deafa0;
+   text-decoration: overline underline 3px dotted;
+  letter-spacing: 4px;
+  text-shadow: 2px 2px #FFBE86;
+}
 
+body {
+  background-color: #d1ebe6;
+}  
+
+img:hover {
+  width: 500px;
+  height: 300px;
+  border: dotted #deafa0 7px;
+}
+
+h1:hover {
+  text-shadow: 2px 2px #78CDD7;
+  text-decoration: overline underline 3px wavy;
 }
