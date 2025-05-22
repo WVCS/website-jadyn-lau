@@ -13,4 +13,30 @@ h1:hover {
   text-shadow: 2px 2px #78CDD7;
   text-decoration: overline underline 3px wavy;
 }
+
+
+nav{
+  list-style-type: none;
+  background-color: #6e999c;
+  width: 100%;
+  height: 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  padding: 15px 50px; 
+}
+
+li{
+   display: inline;
+}
+
+li a:hover {
+  background-color: #b0d1cc;
+  color: black;
+}
  
